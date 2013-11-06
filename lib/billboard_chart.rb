@@ -1,4 +1,4 @@
-require_relative "./bin/billboard_chart_scraper"
+require_relative "./billboard_chart/billboard_chart_scraper"
 
 class BillboardChart
   attr_accessor :artists, :singles, :top_ten, :chart
