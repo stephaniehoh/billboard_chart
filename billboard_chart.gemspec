@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "billboard_chart"
-  spec.version       = "1.0.2"
+  spec.version       = "1.0.3"
   spec.executables   << "billboard_chart"
   spec.authors       = ["Stephanie Oh"]
   spec.email         = ["stephoh@gmail.com"]
