@@ -8,5 +8,3 @@ class BillboardChart
   end
 
 end
-
-b = BillboardChart.new

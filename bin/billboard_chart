@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'billboard_chart'
+BillboardChart.new

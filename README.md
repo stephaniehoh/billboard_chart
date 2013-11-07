@@ -1,27 +1,28 @@
-# Billboard
+# Billboard Chart
 
 Wanna look like you're hard at work in your terminal while checking out which songs
 are blowing up the Billboard Hot 100?
 
-Then grab the billboard gem. Just do it.
+Then grab the billboard_chart gem. Just do it.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+    $ gem install billboard_chart
 
-    gem 'billboard'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install billboard
 
 ## Usage
 
-TODO: Write usage instructions here
+Once you've installed the gem, you can just type `billboard_chart` in your terminal
+and you'll see who's taken over the Top 10!
+
+
+## Future Features
+
+1. Play songs
+2. Artist bios
+3. Expanded chart (Top 20, Top 50, etc.)
+4. Other Billboard charts (Country, Adult Contemporary, etc.)
+
 
 ## Contributing
 
